@@ -1,0 +1,19 @@
+header {background-color: black;}
+
+#Name {
+color: white;
+font-size: 44px;
+}
+
+a {
+color: white;
+font-style: normal;
+}
+
+#Contacts ul {background-color: grey;}
+
+#Position h3 {color: red;}
+
+h2 {color: green;}
+
+.comment {color: grey;}
